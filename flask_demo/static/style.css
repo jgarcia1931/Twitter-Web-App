@@ -1,0 +1,23 @@
+
+.navbar {
+  background-color: white;
+  border-bottom: 4px solid #b4302f;}
+  /*padding-bottom:10px; }*/
+
+#showcase{
+  position: relative;
+  background-color: #74a4e6;
+  min-height: 400px;
+  border-bottom: 4px solid #b4302f;}
+
+#provided_work{
+  background-color: #4e555b;
+  min-height: 100px;
+  border-bottom: 4px solid #b4302f;
+}
+
+#contact {
+  background-color: #4e555b;
+  border-bottom: 4px solid #b4302f;
+  border-top: 4px solid #b4302f;
+}
